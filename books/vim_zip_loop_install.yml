@@ -3,7 +3,7 @@
   - all
   become: true
   tasks:
-  - name: Ansible apt installation
+  - name: Ansible apt installation, current - vim,zip
     apt:
       name: ['vim', 'zip']
       update_cache: true

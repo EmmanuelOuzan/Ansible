@@ -11,7 +11,8 @@ So what did I do?
 
 3. I have wrote the server.yml that runs the "common" role inside its folder.
 
-4. I have added an extra inventory file in the hosts folder
+4. I have added an extra inventory file in the hosts folder + Used variables in the original
+   hosts file
 
 5. I have encrypted the private.pem file :) allowing me to make this repo public and staying secured :) 
 
@@ -22,5 +23,5 @@ So what did I do?
 
 9. Inside the books folder you can find the docker-ce install I work with to deploy docker
    (did not write it myself, but completely understood it ! :) ) 
-
+ 
 Emmanuel 
