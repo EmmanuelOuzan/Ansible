@@ -1,7 +1,7 @@
 # Ansible Emmanuel Repo
 Hello Daniel! 
-This is my full ansible Directory.
-So what did I do?
+## This is my full ansible Directory.
+### So what did I do?
 
 1. You can find the zip + vim installation playbook in books directory :)
    I have made it the most efficient I could :) I updated it to the last ansible version
