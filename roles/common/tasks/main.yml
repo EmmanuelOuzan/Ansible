@@ -1,0 +1,7 @@
+---
+- name: Ansible apt installation
+  become: true
+  apt:
+    name: ['vim', 'zip']
+    update_cache: true
+    state: present

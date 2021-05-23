@@ -1,0 +1,1 @@
+{"virtualbox":{"/etc/ansible":{"guestpath":"/etc/ansible","hostpath":"C:/Users/emman/Desktop/DevOpsRoad/Devops Expert/Vagrant_Ansible/AnsibleVagrant/Ansible","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/emman/Desktop/DevOpsRoad/Devops Expert/Vagrant_Ansible/AnsibleVagrant/Ansible","disabled":false,"__vagrantfile":true}}}

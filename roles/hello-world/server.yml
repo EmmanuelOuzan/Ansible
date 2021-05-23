@@ -1,0 +1,4 @@
+---
+- hosts: EC2
+  roles:
+    - role: 'hello-world'

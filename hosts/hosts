@@ -1,0 +1,13 @@
+[EC2]
+54.221.37.118
+3.95.196.130
+
+
+
+
+[test]
+3.84.109.137 ansible_ssh_private_key_file=/etc/private.pem ansible_user=ubuntu ansible_python_interpreter=python3	
+[EC2:vars]
+ansible_ssh_private_key_file=/etc/private.pem
+ansible_user=ubuntu
+ansible_python_interpreter=python3
