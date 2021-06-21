@@ -1,5 +1,4 @@
 # Ansible Emmanuel Repo
-Hello Daniel! 
 ## This is my full ansible Directory.
 ### So what did I do?
 
@@ -22,6 +21,6 @@ Hello Daniel!
    "hello world"
 
 9. Inside the books folder you can find the docker-ce install I work with to deploy docker
-   (did not write it myself, but completely understood it ! :) ) 
+   
  
 Emmanuel 
