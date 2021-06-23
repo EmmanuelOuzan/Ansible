@@ -4,16 +4,16 @@
 
 1. You can find the zip + vim installation playbook in books directory :)
    I have made it the most efficient I could :) I updated it to the last ansible version
-   (Loops the way we learned will be depcreted, so I changed it to the new form)
+   (Loops updated to best practices)
 
-2. I have created the "common" Role that you can find in the Roles directory.
+2. I have created the "common" Role that can be found in the Roles directory.
 
 3. I have wrote the server.yml that runs the "common" role inside its folder.
 
 4. I have added an extra inventory file in the hosts folder + Used variables in the original
    hosts file
 
-5. I have encrypted the private.pem file :) allowing me to make this repo public and staying secured :) 
+5. I have encrypted the private.pem file :) allowing me to make this repo public and stay secured :) 
 
 6. I have added to the ansible configuration file the "Host key checking=false" So I wont have to write "yes" each time I connect to a server.
 
